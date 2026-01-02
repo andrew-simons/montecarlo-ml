@@ -83,19 +83,6 @@ Results are benchmarked against a constant-volatility GBM simulation.
 
 ---
 
-## Repository Structure
-
-.
-├── volatility_mlp.ipynb
-├── src/
-│   ├── features.py
-│   ├── model.py
-│   └── mc_simulation.py
-├── .gitignore
-└── README.md
-
----
-
 ## Installation & Usage
 
 Install dependencies:
